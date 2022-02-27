@@ -43,12 +43,20 @@ input{
     cursor: pointer;
 }
 
+text1.maincolor{
+    background-color: #0cd0cd;
+}
+
 .main{
     display: inline-block;
 }
 
 .maincolor{
     background-color:black;
+}
+
+.maincolor1{
+    background-color: #b5b5b5;
 }
 .blue{
     background-color: #0cd0cd;
