@@ -33,10 +33,39 @@ input{
     margin-bottom:12px;
 }
 
+.text1{
+    width: 24px;
+    height: 26px;
+    border-radius: 50%;
+    letter-spacing: 5px;
+    text-align: center;
+    margin-bottom: 12px;
+    cursor: pointer;
+}
+
 .main{
     display: inline-block;
 }
 
 .maincolor{
-    background-color: black ;
+    background-color:black;
+}
+.blue{
+    background-color: #0cd0cd;
+}
+
+.pin{
+    background-color:#f98181;
+}
+
+.gre{
+    background-color: #c0f4bc;
+}
+
+.pur{
+    background-color: #ee2929;
+}
+
+.ora{
+    background-color: #edca97;
 }
