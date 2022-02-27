@@ -9,3 +9,20 @@ body {
     background: black;
 
 }
+
+input{
+    color:white;
+    padding: 17px;
+    outline: none;
+    font-size: 30px;
+    font-family: 'Bebas Neue', cursive;
+    border-radius: 25%;
+}
+
+.main{
+    display: inline-block;
+}
+
+.maincolor{
+    background-color: black ;
+}
